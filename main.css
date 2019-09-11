@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.bg{
+    background-color: aquamarine;
+    min-height: 670px;
+}
+#ben{
+    background: url(/Landing-page-image.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.ben-content{
+    margin: 20%;
+    text-align: center;
+    color: #fceefb;
+}
+.ben-content h1{
+    font-family: 'Indie Flower', cursive;
+    font-weight: 500;
+    font-size: 4em;
+}
+#bee{
+    border-radius: 20px;
+    margin-top: 10%;
+    background-color: #a08b9e;
+    border: #a08b9e;
+}
+#bee:hover{
+    background-color: #665965;
+}
